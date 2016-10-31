@@ -1,0 +1,2 @@
+res folder contents:
+one (1) - sprite sheet
